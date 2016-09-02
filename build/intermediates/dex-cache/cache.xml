@@ -2,11 +2,11 @@
 <items version="2" >
 
     <item
-        jar="/Users/sijan/Downloads/PushNotification/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jar="/Users/sijan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Users/sijan/Downloads/PushNotification/app/build/intermediates/pre-dexed/debug/classes-3d5edf9108983ddccb4f320dd3197342c8b52f80.jar" />
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/sijan/Downloads/PushNotification/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-5362ba7ee91b20e8166cc592d4f32b377c0a2fac.jar" />
     </item>
     <item
         jar="/Users/sijan/Downloads/PushNotification/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
@@ -23,11 +23,11 @@
         <dex dex="/Users/sijan/Downloads/PushNotification/app/build/intermediates/pre-dexed/debug/classes-f44453159b3f0e56e590311ee24cec396d5c741d.jar" />
     </item>
     <item
-        jar="/Users/sijan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jar="/Users/sijan/Downloads/PushNotification/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/Users/sijan/Downloads/PushNotification/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-5362ba7ee91b20e8166cc592d4f32b377c0a2fac.jar" />
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/sijan/Downloads/PushNotification/app/build/intermediates/pre-dexed/debug/classes-3d5edf9108983ddccb4f320dd3197342c8b52f80.jar" />
     </item>
 
 </items>
