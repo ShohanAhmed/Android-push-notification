@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
         myNotication = builder.getNotification();
         manager.notify(notificationId, myNotication);
     }
-    void cancleNotification(){
+    void cancelNotification(){
         manager.cancel(notificationId);
     }
 
@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
         btnClear.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View arg0) {
-                cancleNotification();
+                cancelNotification();
             }
         });
     }
